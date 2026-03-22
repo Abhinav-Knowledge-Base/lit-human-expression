@@ -1,0 +1,3 @@
+# Ernest Hemingway
+
+- Description: Minimalism.
