@@ -78,4 +78,4 @@ one small reflection of it.
 
 Maybe I am not divided.
 
-Maybe I am just Human.
+Maybe I am just human.
