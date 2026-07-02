@@ -16,4 +16,4 @@ These concepts explore how literature is valued and how texts communicate with e
 - **Significance:** Meaning is not just in the text, but in the space *between* texts.
 
 ---
-*See also:* [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md), [Postmodernism](file:///d:/Miscellaneous/Literature%20Theory/1.%20Literary%20Movements/Postmodernism.md)
+*See also:* [William Shakespeare](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md), [Postmodernism](../1.%20Literary%20Movements/Postmodernism.md)

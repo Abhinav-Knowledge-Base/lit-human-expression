@@ -5,9 +5,9 @@
 ## 1. Classical Genres
 - **Tragedy:** Deals with serious themes and the downfall of a noble protagonist (the "tragic hero").
     - *Key Concept:* **Catharsis** (the purging of emotions).
-    - *Examples:* [Sophocles' Oedipus Rex](file:///d:/Miscellaneous/Books/Western/1.%20Ancient%20Greece/Oedipus%20Rex.md), [Shakespeare's Hamlet](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md).
+    - *Examples:* [Sophocles' Oedipus Rex](../../Books/Western/1.%20Ancient%20Greece/Oedipus%20Rex.md), [Shakespeare's Hamlet](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md).
 - **Comedy:** Intended to be humorous or to amuse by inducing laughter, often with a happy ending.
-    - *Examples:* [A Midsummer Night's Dream](file:///d:/Miscellaneous/Books/Western/4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md).
+    - *Examples:* [A Midsummer Night's Dream](../../Books/Western/4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md).
 
 ## 2. Modern Variations
 - **Tragicomedy:** A literary genre that blends aspects of both tragic and comic forms.
@@ -20,4 +20,4 @@
 - **Conflict:** The heart of drama—man vs. man, man vs. self, or man vs. society.
 
 ---
-*See also:* [Dead Poets Society](file:///d:/Miscellaneous/Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md)
+*See also:* [Dead Poets Society](../../Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [William Shakespeare](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md)

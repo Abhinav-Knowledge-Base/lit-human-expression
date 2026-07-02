@@ -17,4 +17,4 @@
 Romanticism paved the way for the celebration of subjectivity and the "I" in literature, influencing virtually all subsequent poetry and fiction.
 
 ---
-*See also:* [Victor Hugo](file:///d:/Miscellaneous/Writers/Western/6.%2019th%20Century%20Europe/Victor%20Hugo.md)
+*See also:* [Victor Hugo](../../Writers/Western/6.%2019th%20Century%20Europe/Victor%20Hugo.md)

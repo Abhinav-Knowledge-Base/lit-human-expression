@@ -15,4 +15,4 @@
 - **Jorge Luis Borges:** Anticipated postmodernism with his philosophical stories.
 
 ---
-*See also:* [Jorge Luis Borges](file:///d:/Miscellaneous/Writers/Latin%20American/Jorge%20Luis%20Borges.md)
+*See also:* [Jorge Luis Borges](../../Writers/Latin%20American/Jorge%20Luis%20Borges.md)

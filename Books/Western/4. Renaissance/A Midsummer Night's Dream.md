@@ -1,6 +1,6 @@
 # A Midsummer Night's Dream
 
-- **Author:** [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md)
+- **Author:** [William Shakespeare](../../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md)
 - **Genre:** Romantic Comedy
 - **Setting:** Athens and an enchanted forest.
 
@@ -20,4 +20,4 @@ Blending love, magic, illusion, and transformation, the play explores how irrati
 - **Authority vs Desire:** Youthful rebellion against strict social laws (Athens vs. the Forest).
 
 ## 4. Connection to Modern Drama
-In **[Dead Poets Society](file:///d:/Miscellaneous/Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md)**, the character Neil Perry plays Puck. This is symbolic of his desire for freedom from the rigid, "Athenian" structure of Welton Academy.
+In **[Dead Poets Society](../8.%2020th%20Century/Dead%20Poets%20Society.md)**, the character Neil Perry plays Puck. This is symbolic of his desire for freedom from the rigid, "Athenian" structure of Welton Academy.

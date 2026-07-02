@@ -13,4 +13,4 @@
 - Exploring character motivations through the lens of trauma and suppressed memories.
 
 ---
-*See also:* [Dead Poets Society](file:///d:/Miscellaneous/Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [Fyodor Dostoevsky](file:///d:/Miscellaneous/Writers/Russian/2.%20Golden%20Age/Fyodor%20Dostoevsky.md)
+*See also:* [Dead Poets Society](../../Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [Fyodor Dostoevsky](../../Writers/Russian/2.%20Golden%20Age/Fyodor%20Dostoevsky.md)

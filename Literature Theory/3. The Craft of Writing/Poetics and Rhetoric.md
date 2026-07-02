@@ -18,4 +18,4 @@ This section focuses on the technical aspects of poetry and persuasive writing.
 - **Ethos, Pathos, and Logos:** Aristotle’s three pillars of persuasion (Authority, Emotion, and Logic).
 
 ---
-*See also:* [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md), [Homer](file:///d:/Miscellaneous/Writers/Western/1.%20Ancient%20Greece/Homer.md)
+*See also:* [William Shakespeare](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md), [Homer](../../Writers/Western/1.%20Ancient%20Greece/Homer.md)

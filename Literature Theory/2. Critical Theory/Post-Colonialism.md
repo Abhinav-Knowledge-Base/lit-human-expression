@@ -13,4 +13,4 @@
 - **Salman Rushdie:** Mixing history and myth to explore Indian identity.
 
 ---
-*See also:* [Chinua Achebe](file:///d:/Miscellaneous/Writers/African/Chinua%20Achebe.md), [Salman Rushdie](file:///d:/Miscellaneous/Writers/Indian/5.%20Modern%20&%20Contemporary/Salman%20Rushdie.md)
+*See also:* [Chinua Achebe](../../Writers/African/Chinua%20Achebe.md), [Salman Rushdie](../../Writers/Indian/5.%20Modern%20%26%20Contemporary/Salman%20Rushdie.md)

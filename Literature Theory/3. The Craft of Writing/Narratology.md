@@ -18,4 +18,4 @@
 - **Functions:** Recurring plot elements like "The Departure," "The Test," and "The Return."
 
 ---
-*See also:* [Dead Poets Society](file:///d:/Miscellaneous/Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [A Midsummer Night's Dream](file:///d:/Miscellaneous/Books/Western/4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md)
+*See also:* [Dead Poets Society](../../Books/Western/8.%2020th%20Century/Dead%20Poets%20Society.md), [A Midsummer Night's Dream](../../Books/Western/4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md)

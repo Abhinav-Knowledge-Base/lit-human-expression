@@ -14,4 +14,4 @@
 - **Irony and Paradox (Cleanth Brooks):** The central structural devices of great poetry.
 
 ---
-*See also:* [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md)
+*See also:* [William Shakespeare](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md)

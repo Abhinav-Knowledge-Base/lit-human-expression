@@ -16,4 +16,4 @@
 - **Franz Kafka:** Exploring the absurdity of modern bureaucracy.
 
 ---
-*See also:* [Franz Kafka](file:///d:/Miscellaneous/Writers/Western/8.%2020th%20Century/Franz%20Kafka.md), [Ernest Hemingway](file:///d:/Miscellaneous/Writers/Western/8.%2020th%20Century/Ernest%20Hemingway.md)
+*See also:* [Franz Kafka](../../Writers/Western/8.%2020th%20Century/Franz%20Kafka.md), [Ernest Hemingway](../../Writers/Western/8.%2020th%20Century/Ernest%20Hemingway.md)

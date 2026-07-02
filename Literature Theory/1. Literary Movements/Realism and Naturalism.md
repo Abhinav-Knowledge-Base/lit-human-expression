@@ -15,4 +15,4 @@
 - **Key Writers:** Émile Zola, Stephen Crane.
 
 ---
-*See also:* [Leo Tolstoy](file:///d:/Miscellaneous/Writers/Russian/2.%20Golden%20Age/Leo%20Tolstoy.md), [Fyodor Dostoevsky](file:///d:/Miscellaneous/Writers/Russian/2.%20Golden%20Age/Fyodor%20Dostoevsky.md)
+*See also:* [Leo Tolstoy](../../Writers/Russian/2.%20Golden%20Age/Leo%20Tolstoy.md), [Fyodor Dostoevsky](../../Writers/Russian/2.%20Golden%20Age/Fyodor%20Dostoevsky.md)

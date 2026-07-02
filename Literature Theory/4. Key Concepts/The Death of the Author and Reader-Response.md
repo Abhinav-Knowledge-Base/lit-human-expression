@@ -12,4 +12,4 @@ These concepts explore where meaning resides: in the author, the text, or the re
 - **Interpretive Communities:** Our interpretations are shaped by the social groups we belong to (e.g., a teacher vs. a student).
 
 ---
-*See also:* [Post-Structuralism](file:///d:/Miscellaneous/Literature%20Theory/2.%20Critical%20Theory/Structuralism%20and%20Post-Structuralism.md)
+*See also:* [Post-Structuralism](../2.%20Critical%20Theory/Structuralism%20and%20Post-Structuralism.md)

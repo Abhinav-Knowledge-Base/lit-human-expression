@@ -15,4 +15,4 @@ These theories focus on power dynamics and social structures within literature.
 - **Essentialism vs. Social Construction:** Debating whether "femininity" is biological or a social performance.
 
 ---
-*See also:* [Arundhati Roy](file:///d:/Miscellaneous/Writers/Indian/5.%20Modern%20&%20Contemporary/Arundhati%20Roy.md), [Hannah Arendt](file:///d:/Miscellaneous/Writers/Jewish/Hannah%20Arendt.md)
+*See also:* [Arundhati Roy](../../Writers/Indian/5.%20Modern%20%26%20Contemporary/Arundhati%20Roy.md), [Hannah Arendt](../../Writers/Jewish/Hannah%20Arendt.md)

@@ -11,4 +11,4 @@ These concepts explore how literature reflects and shapes social and political p
 - **Power as Productive:** Power doesn't just "oppress"; it produces the very identities and categories we use to understand ourselves.
 
 ---
-*See also:* [Marxist and Feminist Criticism](file:///d:/Miscellaneous/Literature%20Theory/2.%20Critical%20Theory/Marxist%20and%20Feminist%20Criticism.md), [Post-Colonialism](file:///d:/Miscellaneous/Literature%20Theory/2.%20Critical%20Theory/Post-Colonialism.md)
+*See also:* [Marxist and Feminist Criticism](../2.%20Critical%20Theory/Marxist%20and%20Feminist%20Criticism.md), [Post-Colonialism](../2.%20Critical%20Theory/Post-Colonialism.md)

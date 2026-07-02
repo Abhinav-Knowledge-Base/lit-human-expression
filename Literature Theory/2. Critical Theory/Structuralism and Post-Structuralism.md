@@ -14,4 +14,4 @@ These theories focus on the systems of language and signs that allow meaning to 
 - **The Death of the Author (Roland Barthes):** The idea that the author has no authority over the text once it is published; the text belongs to the reader and the language itself.
 
 ---
-*See also:* [Jorge Luis Borges](file:///d:/Miscellaneous/Writers/Latin%20American/Jorge%20Luis%20Borges.md)
+*See also:* [Jorge Luis Borges](../../Writers/Latin%20American/Jorge%20Luis%20Borges.md)

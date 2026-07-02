@@ -4,7 +4,7 @@
 
 ## 1. Major Types of Poetry
 - **Epic Poetry:** Long, narrative poems concerning a serious subject containing details of heroic deeds and events significant to a culture or nation.
-    - *Examples:* [Homer's Iliad](file:///d:/Miscellaneous/Books/Western/1.%20Ancient%20Greece/Iliad.md), [Valmiki's Ramayana](file:///d:/Miscellaneous/Books/Indian/1.%20Ancient%20&%20Classical/Ramayana.md).
+    - *Examples:* [Homer's Iliad](../../Books/Western/1.%20Ancient%20Greece/Iliad.md), [Valmiki's Ramayana](../../Books/Indian/1.%20Ancient%20%26%20Classical/Ramayana.md).
 - **Lyric Poetry:** A formal type of poetry which expresses personal emotions or feelings, typically spoken in the first person.
     - *Features:* Musicality, brevity, and emotional intensity.
 - **Narrative Poetry:** Poetry that tells a story. While epics are narrative, not all narrative poems are epics (e.g., ballads).
@@ -23,4 +23,4 @@
 - **Modernist:** Breakage of traditional forms, fragmentation, and experimentation (e.g., T.S. Eliot).
 
 ---
-*See also:* [Poetics and Rhetoric](file:///d:/Miscellaneous/Literature%20Theory/3.%20The%20Craft%20of%20Writing/Poetics%20and%20Rhetoric.md), [William Shakespeare](file:///d:/Miscellaneous/Writers/Western/4.%20Renaissance/William%20Shakespeare.md)
+*See also:* [Poetics and Rhetoric](../3.%20The%20Craft%20of%20Writing/Poetics%20and%20Rhetoric.md), [William Shakespeare](../../Writers/Western/4.%20Renaissance/William%20Shakespeare.md)

@@ -12,7 +12,7 @@ A non-conformist teacher who inspires students to think independently.
 - **Belief:** Poetry is about passion and rebellion, not just metrics.
 
 ## 3. The Students
-- **Neil Perry:** Talented but suffocated by an authoritarian father. Plays Puck in **[A Midsummer Night's Dream](file:///d:/Miscellaneous/Books/Western/4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md)**.
+- **Neil Perry:** Talented but suffocated by an authoritarian father. Plays Puck in **[A Midsummer Night's Dream](../4.%20Renaissance/A%20Midsummer%20Night's%20Dream.md)**.
 - **Todd Anderson:** Shy and insecure, finding his voice through Keating.
 - **The Cave:** The secret meeting place for the Dead Poets Society, symbolizing a space of freedom.
 
